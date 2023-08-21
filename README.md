@@ -1,1 +1,31 @@
-# Sams_Logo_Maker
+# Logo Make Starter Code
+
+## Description
+
+  
+## Installation
+ To run and modify this project locally, follow these steps: 
+ 1. Clone the repository: git clone https://github.com/samxbrown/Sams_Logo_Maker.git
+ 2. Navigate to the project directory: cd Sams_Logo_Maker
+ 3. Open the project in your preferred code editor.
+
+
+## Usage
+  Once you have the project set up locally, you can: 
+  * Modify the HTML and CSS files to customize the website according to your needs. 
+  * Add additional content, images, and styles as required. 
+  * Test the website for accessibility by ensuring it meets the acceptance criteria mentioned above:
+  * Javascript
+  * VS Code
+  * Screencastify
+
+
+## Screenshot
+
+
+
+## Contribution
+https://www.youtube.com/watch?v=GJYMcLus3v0
+
+## License
+N/A

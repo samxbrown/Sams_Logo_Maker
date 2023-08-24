@@ -21,8 +21,8 @@ This repository contains a codebase for a Logo Maker that provides the user prom
 
 
 ## Screenshot
-
-
+![Screenshot 2023-08-23 at 10 38 10 PM](https://github.com/samxbrown/Sams_Logo_Maker/assets/135293566/71177948-242c-4206-b2f3-fa48dc0314eb)
+https://drive.google.com/file/d/1SQ0npPZKtjKcjbIehUx7xMTwmp2kAlvd/view
 
 ## Contribution
 I would like to thank my tutor Samuel Cordova for assistance with creating this code as well as the creator of this youtube channel. https://www.youtube.com/watch?v=GJYMcLus3v0

@@ -25,7 +25,7 @@
 
 
 ## Contribution
-https://www.youtube.com/watch?v=GJYMcLus3v0
+I would like to thank my tutor Samuel Cordova for assistance with creating this code as well as the creator of this youtube channel. https://www.youtube.com/watch?v=GJYMcLus3v0
 
 ## License
 N/A

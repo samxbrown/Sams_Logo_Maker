@@ -1,7 +1,7 @@
 # Logo Make Starter Code
 
 ## Description
-
+This repository contains a codebase for a Logo Maker that provides the user prompts to create a customized and initialed Logo.
   
 ## Installation
  To run and modify this project locally, follow these steps: 
@@ -12,7 +12,7 @@
 
 ## Usage
   Once you have the project set up locally, you can: 
-  * Modify the HTML and CSS files to customize the website according to your needs. 
+  * Modify the Javascript files to customize the website according to your needs. 
   * Add additional content, images, and styles as required. 
   * Test the website for accessibility by ensuring it meets the acceptance criteria mentioned above:
   * Javascript
